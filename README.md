@@ -93,3 +93,5 @@ como `server/queue.py`, `server/storage.py` y `deploy/` con configuración de
 Nginx, RabbitMQ y la base de datos. No almacenar credenciales en Git; usar
 variables de entorno o un gestor de secretos.
 # pf03redes
+# pf03redes
+# pf03redes

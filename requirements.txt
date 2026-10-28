@@ -1,0 +1,2 @@
+# La demo usa solo la biblioteca estándar.
+# RabbitMQ para una futura integración: pika>=1.3,<2
