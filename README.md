@@ -84,14 +84,3 @@ o llamando `serve(host, port)` / `request(task, host, port)` desde Python.
 └── requirements.txt
 ```
 
-## Publicación y evolución
-
-Crear el repositorio en GitHub, revisar que no incluya secretos ni archivos
-locales y publicar mediante `git add`, `git commit` y `git push`. Al evolucionar
-el prototipo, separar configuración por variables de entorno y añadir módulos
-como `server/queue.py`, `server/storage.py` y `deploy/` con configuración de
-Nginx, RabbitMQ y la base de datos. No almacenar credenciales en Git; usar
-variables de entorno o un gestor de secretos.
-# pf03redes
-# pf03redes
-# pf03redes
